@@ -4,7 +4,7 @@
 
 ![PREVIEW](./img/preview.png)
 
-[Clique aqui para acessar.](https://djkcosta.github.io/portifolio/)
+[Clique aqui para acessar.]
 
 
 ## 💻Tecnologias Utilizadas
