@@ -22,7 +22,7 @@
         font-size: 0.9em;
     }
     main .techs .cards-conainer, .main-content .text p{
-        margin-top: 32px;
+        margin-top: 24px;
 
     }
 }
@@ -46,6 +46,7 @@
     main .techs .cards-conainer .cards{
         width: 60px;
         height: 60px;
+        padding: 5px
     }
     main .main-content .text h2, .main-content .text .techs h2{
         font-size: 1.8em;
